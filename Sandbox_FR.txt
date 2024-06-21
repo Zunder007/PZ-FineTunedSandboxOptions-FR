@@ -1,0 +1,11 @@
+Sandbox_FR = {
+	Sandbox_FineTune = "Fine-Tuned Sandbox Options",
+	Sandbox_FineTune_WaterShutoffMin = "Coupure d'eau Jour Minimum",
+	Sandbox_FineTune_WaterShutoffMin_tooltip = "Nombre de jours, en tant de jeu, avant que les systèmes d'eau ne puissent commencer à risquer de cesser de fonctionner, zéro étant \"Instantané\". <LINE> Supplante la valeur de l'arrêt d'eau dans l'onglet \"Monde\".",
+	Sandbox_FineTune_WaterShutoffMax = "Coupure d'eau Jour Maximum",
+	Sandbox_FineTune_WaterShutoffMax_tooltip = "Nombre de jours, en tant de jeu, avant que les systèmes d'eau ne cessent de fonctionner pour de bon, zéro étant \"Instantané\". <LINE> Supplante la valeur de l'arrêt d'eau dans l'onglet \"Monde\".",
+	Sandbox_FineTune_ElecShutoffMin = "Coupure d'électricité Jour Minimum",
+	Sandbox_FineTune_ElecShutoffMin_tooltip = "Nombre de jours, en tant de jeu, avant que le réseau électrique ne puisse commencer à risquer de cesser de fonctionner, zéro étant \"Instantané\". <LINE> Supplante la valeur de la coupure d'électricité dans l'onglet \"Monde\".",
+	Sandbox_FineTune_ElecShutoffMax = "Coupure d'électricité Jour Maximum",
+	Sandbox_FineTune_ElecShutoffMax_tooltip = "Nombre de jours, en tant de jeu, avant que le réseau électrique ne cesse de fonctionner pour de bon, zéro étant \"Instantané\". <LINE> Supplante la valeur de la coupure d'électricité dans l'onglet \"Monde\".",
+}
